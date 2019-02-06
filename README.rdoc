@@ -117,7 +117,8 @@ If you have any issues with CanCan which you cannot find the solution to in the 
 
 To get the specs running you should call +bundle+ and then +rake+. See the {spec/README}[https://github.com/ryanb/cancan/blob/master/spec/README.rdoc] for more information.
 
+Guilherme Reis
 
-== Special Thanks
+* https://www.worldcode.com.br
 
-CanCan was inspired by declarative_authorization[https://github.com/stffn/declarative_authorization/] and aegis[https://github.com/makandra/aegis]. Also many thanks to the CanCan contributors[https://github.com/ryanb/cancan/contributors]. See the CHANGELOG[https://github.com/ryanb/cancan/blob/master/CHANGELOG.rdoc] for the full list.
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
